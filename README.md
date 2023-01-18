@@ -2,7 +2,7 @@
 welcome to my github
 A few things about me:
 - I am a 5-th year computer science and finance student at Northeastern University
-- 🔭 My expertise is in web development 
+- 🔭 My expertise is in full-stack web development 
 - 🌱 I’m currently learning Django 
 - 📫 you can reach me at pham.lo@northeastern.edu
 - 😄 Pronouns: He/him/his

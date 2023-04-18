@@ -7,7 +7,7 @@ A few things about me:
 - 📫 you can reach me at pham.lo@northeastern.edu
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: when I was 2 I almost got lost following someone into a market
-- My portfolio is here: https://phamlo123.github.io/
+- My portfolio is here: https://longterencepham.com/
 <!--
 **phamlo123/phamlo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

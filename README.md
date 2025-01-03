@@ -1,12 +1,11 @@
 ### Hi there 👋
 welcome to my github
 A few things about me:
-- I am a 5-th year computer science and finance student at Northeastern University
+- I am a software engineer based in Boston with 2 YOE working primarily with Ruby on Rails.  
 - 🔭 My expertise is in full-stack web development 
-- 🌱 I’m currently learning Django 
-- 📫 you can reach me at pham.lo@northeastern.edu
+- 📫 you can reach me at longterencepham@gmail.com
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: when I was 2 I almost got lost following someone into a market
+- ⚡ Fun fact: when I was 2 I almost got lost following someone into a market, and later found by someone my parents knew.
 - My portfolio is here: https://longterencepham.com/
 <!--
 **phamlo123/phamlo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
